@@ -8,6 +8,14 @@ PUBLIC '-//Apple//DTD PLIST 1.0//EN'
     <array>
       <string>sv</string>
       <string>SV</string>
+      <string>svh</string>
+      <string>SVH</string>      
+      <string>v</string>
+      <string>V</string>
+      <string>vs</string>
+      <string>VS</string>    
+      <string>vsh</string>
+      <string>VSH</string>        
     </array>
     <key>foldingStartMarker</key>
     <string>(begin)\s*(//.*)?$</string>
